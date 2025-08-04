@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js App for CI/CD Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "ikram",
+  "license": "MIT"
+}
